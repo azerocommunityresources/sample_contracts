@@ -62,7 +62,8 @@ cargo install contracts-node --git https://github.com/paritytech/substrate-contr
 
 This is just an overview, you can find the full documentation [here](https://ink.substrate.io/getting-started/setup)
 
-3. Create a sample ink! Project
+
+# Create a sample ink! Project
 
 A sample flipper code can be made by running
 ```
